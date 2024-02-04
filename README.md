@@ -7,6 +7,8 @@ This project focuses on oops on java
                            3.Classes and Objects
                            4.Dynamic Behavior
                            
+     "C:\Users\sathi\OneDrive\Desktop\bike.jpg"   
+     
   🚀 Project Concepts and Key Features:
   Leveraging the power of object-oriented programming (OOP), the Bike Rental System is structured around well-defined classes such as Bike, Customer, and Rental.
   This architectural choice enhances modularity, reusability, and maintainability.
